@@ -1,4 +1,4 @@
-# covid-model
+# Covid-Model
 
 This dataset explores the research parameters that affect a person's need for hospitalisation and analyses information on COVID patients. The dataset includes blood oxygen levels, respiratory issues (yes/no), pre-existing chronic conditions, body temperature, and age of the patient. In weighing all these attributes in determining the best predictors for important outcomes of COVID-19 around "Need Hospitalisation" (yes/no), we consider these factors. We also check for the correlations between the ageing process and the occurrence of chronic diseases and decrease in blood oxygen levels. The correlation between being respiratory compromised and the need for hospitalisation is also evaluated considering the interaction with other factors. The final verification of the importance of each specified risk factor is assessed through various statistical analyses.
 
